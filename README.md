@@ -1,1 +1,2 @@
-# CS101-Project
+def mendels_law(home, het, rec):
+  
